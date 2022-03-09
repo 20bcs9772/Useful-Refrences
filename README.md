@@ -24,4 +24,5 @@ Here are some useful refrences that I often use in my projects :
         <li><span>Codepen - </span><a href="https://codepen.io/travisw">Codepen</a></li>
         <li><span>Public APIs - </span><a href="https://www.devresourc.es/category/public-apis/all">Devresourc</a></li>
         <li><span>HTML DOM - </span><a href="https://htmldom.dev/">HTMLDOM</a></li>
+        <li><span>Logo Maker - </span><ol><li><a href="https://www.fiverr.com/logo-maker">Fiverr</a></li><li><a href="https://www.squarespace.com/logo#N4IghgrgLgFgpgExALgGZgDYGc4F8gAA">SquareSpace</a></li></ol>
     </ul>
