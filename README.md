@@ -26,4 +26,5 @@ Here are some useful refrences that I often use in my projects :
         <li><span>HTML DOM - </span><a href="https://htmldom.dev/">HTMLDOM</a></li>
         <li><span>Customizable Components - </span><a href="https://ej2.syncfusion.com/react/documentation/introduction/">Syncfusion</a></li>
         <li><span>Logo Maker - </span><ol><li><a href="https://www.fiverr.com/logo-maker">Fiverr</a></li><li><a href="https://www.squarespace.com/logo#N4IghgrgLgFgpgExALgGZgDYGc4F8gAA">SquareSpace</a></li></ol>
+        <li><span>Hosting Platforms - </span><ol><li><a href="https://www.netlify.com/">Netlify</a></li><li><a href="https://www.heroku.com/">Heroku</a></li></ol>
     </ul>
